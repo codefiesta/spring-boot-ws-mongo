@@ -1,1 +1,1 @@
-spring-boot-ws
+Example using Spring Boot / STOMP WebSockets / MongoDB

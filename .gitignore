@@ -1,0 +1,11 @@
+# Mac OS X
+*.DS_Store
+*.swp
+
+# Java
+build
+target
+.mvn
+
+# Eclipse
+.settings
